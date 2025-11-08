@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://www.instagram.com/hause_Ar",
+      "permanent": true
+    }
+  ]
+}
